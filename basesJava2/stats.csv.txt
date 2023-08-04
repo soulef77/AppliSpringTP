@@ -1,0 +1,7 @@
+domaine; ca_total
+all;93000
+stylos,15000
+nourriture,24000
+audio,16000
+crayons,20000
+papeterie,18000

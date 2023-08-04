@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+
+.error{
+	color: red;
+}
+
+.footer{
+	background-color: rgb(65,25,125);width:50%;height:150px;color: white;
+	
+}
+
+.header{
+	background-color: rgb(65,25,125);width:50%;height:50px;color: white;
+	
+}
+
+.footer > a{
+	color: white;
+}
+
+
+
+
+
